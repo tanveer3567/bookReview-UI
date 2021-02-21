@@ -1,6 +1,6 @@
 .Header {
     display: flex;
-    background-color: rgb(83, 236, 190);
+    background-color: rgb(10, 7, 161);
 }
 
 .Titile {
@@ -15,4 +15,10 @@
     text-align: right;
     padding-right: 2rem;
     font-size: medium;
+}
+
+.Title {
+    font-size: large;
+    color: rgb(214, 75, 75);
+    font-weight: bold;
 }

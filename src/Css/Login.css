@@ -1,12 +1,20 @@
 Form {
     display: inline-block;   
+    background-color: rgb(83, 236, 190);
 }
 
 .submit {
     left: 10%;
+    right: 10%;
 }
 
 .Title {
+    font-size: large;
+    color: rgb(214, 75, 75);
+    font-weight: bold;
+}
+
+.Titlesss {
     font-size: large;
     color: rgb(214, 75, 75);
     font-weight: bold;
