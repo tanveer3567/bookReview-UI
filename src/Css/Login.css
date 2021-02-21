@@ -1,9 +1,11 @@
 Form {
     display: inline-block;   
+    background-color: rgb(83, 236, 190);
 }
 
 .submit {
     left: 10%;
+    right: 10%;
 }
 
 .Title {
