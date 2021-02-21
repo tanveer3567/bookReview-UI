@@ -1,0 +1,13 @@
+Form {
+    display: inline-block;   
+}
+
+.submit {
+    left: 10%;
+}
+
+.Title {
+    font-size: large;
+    color: rgb(214, 75, 75);
+    font-weight: bold;
+}
